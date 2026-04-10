@@ -1,0 +1,11 @@
+The fastfetch config inspired by JaKooLit on github, here the detailed:
+
+https://github.com/JaKooLit/Fedora-Hyprland/blob/main/assets/fastfetch/config.jsonc
+
+I took the logo from:
+
+https://www.cleanpng.com/png-debian-linux-distribution-linux-foundation-linux-k-3100459/
+
+Contributor: nimcam
+Resolution: 600*600 Preview
+Size: 106.81 KB
